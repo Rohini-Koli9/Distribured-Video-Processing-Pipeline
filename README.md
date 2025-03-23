@@ -1,5 +1,3 @@
----
-```markdown
 # Video Processing Pipeline
 
 This is a distributed event-driven video processing pipeline built with **FastAPI**, **RabbitMQ**, and **Python**. The system allows users to upload videos, enhance them (e.g., adjust colors, FPS), and extract metadata (e.g., duration, resolution).
