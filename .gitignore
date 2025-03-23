@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Node.js
+node_modules/
+dist/
+npm-debug.log*
+
+# Uploads
+backend/uploads/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
