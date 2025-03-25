@@ -22,14 +22,3 @@ backend/uploads/
 .env
 
 
-# Allow client folder
-!client/
-!client/**
-
-# Ignore node_modules everywhere except client
-node_modules/
-!client/node_modules
-
-# Ignore dist everywhere except client
-dist/
-!client/dist
